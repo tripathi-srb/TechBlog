@@ -1,0 +1,36 @@
+body{
+	
+}
+.primary-background
+{
+	background-color: #cddc39;!important;
+}
+
+.btn-outline-primary1 {
+    color: #cddc39;
+    border-color: #cddc39;
+}
+
+.btn-outline-primary1:hover {
+    color: #fff;
+    background-color: #cddc39;
+    border-color: #cddc39;
+}
+
+.active1 {
+    z-index: 2;
+    color: #fff;
+    background-color: #cddc39;
+    border-color: #cddc39;
+}
+
+.list-group-item-action.active1 {
+    z-index: 2;
+    color: #fff;
+    background-color: #cddc39;
+    border-color: #cddc39;
+}
+
+
+
+
